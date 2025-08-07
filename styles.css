@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+
+#main-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.divs-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.grid-item {
+    background-color: lightblue;
+}
